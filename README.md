@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 แบบฝึกหัด: React Todo List
 
 แบบฝึกหัดสำหรับฝึกเขียน React + TypeScript โดยการเติม code ให้ครบตาม TODO ที่กำหนด
@@ -145,3 +146,6 @@ react-todo-list-demo/
 ---
 
 **Happy Coding! 🚀**
+=======
+Read Me
+>>>>>>> c0daddb4c369623065de4615504b320c3853e366
